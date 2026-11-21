@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+.venv/
+venv/
+
+# Downloaded prices and fund data: rebuilt automatically
+data/cache/
+
+# Secrets (API keys) and local files
+.streamlit/secrets.toml
+.env
+.DS_Store
+
+# Never commit real statements
+*.cas.pdf
+my_*.pdf

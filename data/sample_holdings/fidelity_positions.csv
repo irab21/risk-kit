@@ -1,0 +1,8 @@
+Account Number,Account Name,Symbol,Description,Quantity,Last Price,Last Price Change,Current Value,Percent Of Account
+Z123,Individual,SPAXX**,HELD IN MONEY MARKET,,,,$1520.33,3.10%
+Z123,Individual,VTI,VANGUARD TOTAL STOCK MKT,100,$290.10,+$1.20,$29010.00,59.20%
+Z123,Individual,BND,VANGUARD TOTAL BOND MARKET,250,$73.00,-$0.10,$18250.00,37.24%
+Z123,Individual,AAPL,APPLE INC,20,$230.00,+$1.00,$4600.00,9.00%
+Z123,Individual,Pending Activity,,,,,-$200.00,
+
+"The data and information in this spreadsheet is provided to you solely for your use."
